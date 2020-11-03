@@ -1,0 +1,2 @@
+exclude:
+- .*/src\ItLank.CleanArchitecture.Web\wwwroot\lib\**\*
